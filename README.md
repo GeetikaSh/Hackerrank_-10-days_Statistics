@@ -8,4 +8,7 @@ Poisson distributions are often used to understand independent events that occur
 
 Many economic and financial data appear as count variables, such as how many times a person becomes unemployed in a given year, thus lending itself to analysis with a Poisson distribution.
 
+>Day 5: Poisson Distribution I
+https://github.com/GeetikaSh/Hackerrank_-10-days_Statistics/blob/main/Poisson%20Distributin_1
+
 
