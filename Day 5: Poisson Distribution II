@@ -1,0 +1,8 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+# expected value of X= MEAN
+#pROBLEM: https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem
+X,Y= [float(num) for num in input().split(" ")]
+CA=160+40*(X+ X**2)
+CB=128+40*(Y+ Y**2)
+print("%.3f"%CA)
+print("%.3f"%CB)
