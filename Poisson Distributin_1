@@ -1,0 +1,9 @@
+# A random variable,X , follows Poisson distribution with mean of 2.5 . Find the probability with which the random variable X is equal to 5.
+#POISSON DISTRIBYTION= (2.5^5)*(e^(-2.5))/5!
+from math import factorial
+from math import exp
+
+avg=float(input())
+act=int(input())
+pd=((avg**act)*(exp(-avg))/factorial(act))
+print("%.3f"%pd)
