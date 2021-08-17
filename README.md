@@ -13,10 +13,12 @@ P(X=x)= Poisson Distribution\
 ![](https://latex.codecogs.com/gif.latex?%7B%5Clambda%20%7D)=average / mean of random variable X
 
 
->Day 4: Binomial Distribution
+>Day 4: Binomial Distribution\
 https://github.com/GeetikaSh/Hackerrank_-10-days_Statistics/blob/main/Binomial%20Distribution
 
->Day 5: Poisson Distribution I
-https://github.com/GeetikaSh/Hackerrank_-10-days_Statistics/blob/main/Poisson%20Distributin_1
+>Day 5: Poisson Distribution I \
+https://github.com/GeetikaSh/Hackerrank_-10-days_Statistics/blob/main/Poisson%20Distributin_1 \
+Day 5: Poisson Distribution II \
+https://github.com/GeetikaSh/Hackerrank_-10-days_Statistics/blob/main/Day%205:%20Poisson%20Distribution%20II
 
 
